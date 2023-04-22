@@ -21,3 +21,4 @@ Aquí dejaré que va con qué.
 - Bucle foreach en Svelte - each else: **03_bucles.md** -> bucle-app
 - Función asincrona y directiva await: **04_await.md** -> await-app
 - Binds (value, checked, this) y obtener elemento del DOM : **05_bind_eventos** -> bind-app
+- Propagación de eventos propios bottom-up: **06_propagación_eventos.md** -> eventos-propios-app

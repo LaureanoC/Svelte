@@ -20,3 +20,4 @@ Aquí dejaré que va con qué.
 - Eventos, reactividad y directiva if en svelte: **02_eventos-reactividad-if.md** -> eventos-app
 - Bucle foreach en Svelte - each else: **03_bucles.md** -> bucle-app
 - Función asincrona y directiva await: **04_await.md** -> await-app
+- Binds (value, checked, this) y obtener elemento del DOM : **05_bind_eventos** -> bind-app

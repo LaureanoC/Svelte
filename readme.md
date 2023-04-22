@@ -14,5 +14,5 @@ En los archivos.md se encontrarán los paso a paso o explicaciones rústicas.
 
 Aquí dejaré que va con qué.
 
-- 01_introducción.md -> my-app
-- 02_eventos.md -> eventos-app
+- Introducción a Svelte y conceptos importantes: **01_introducción.md** -> my-app
+- Eventos, reactividad y directiva if en svelte: **02_eventos-reactividad-if.md** -> eventos-app

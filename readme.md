@@ -17,8 +17,15 @@ Aquí dejaré que va con qué.
 <em>| Titulo | **Archivo.md con notas** | Carpeta de la app</em>
 
 - Introducción a Svelte y conceptos importantes: **01_introducción.md** -> my-app
+
 - Eventos, reactividad y directiva if en svelte: **02_eventos-reactividad-if.md** -> eventos-app
+
 - Bucle foreach en Svelte - each else: **03_bucles.md** -> bucle-app
+
 - Función asincrona y directiva await: **04_await.md** -> await-app
+
 - Binds (value, checked, this) y obtener elemento del DOM : **05_bind_eventos** -> bind-app
+
 - Propagación de eventos propios bottom-up: **06_propagación_eventos.md** -> eventos-propios-app
+
+- Aplicación de todos los conceptos aprendidos hasta el momento: **07_formulario_interactivo.md** -> formulario-app

@@ -19,3 +19,4 @@ Aquí dejaré que va con qué.
 - Introducción a Svelte y conceptos importantes: **01_introducción.md** -> my-app
 - Eventos, reactividad y directiva if en svelte: **02_eventos-reactividad-if.md** -> eventos-app
 - Bucle foreach en Svelte - each else: **03_bucles.md** -> bucle-app
+- Función asincrona y directiva await: **04_await.md** -> await-app

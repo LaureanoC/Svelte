@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Cómo trabajar con CSS en Svelte](#c%C3%B3mo-trabajar-con-css-en-svelte)
+- [Aplicar estilos condicionales](#aplicar-estilos-condicionales)
+- [Variables CSS](#variables-css)
+- [Definición global en Svelte](#definici%C3%B3n-global-en-svelte)
+- [Importar hojas de estilo](#importar-hojas-de-estilo)
+- [BLOQUE DOLAR IMPORTANTE](#bloque-dolar-importante)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Cómo trabajar con CSS en Svelte
 
 Comenzamos el módulo de CSS hablando de lo más simple: cómo haríamos para incorporar estilos a una aplicación de Svelte. El resultado probablemente no te sorprenda: dentro de la etiqueta style de cada componente de Svelte se pueden insertar estilos CSS y usarlos localmente en el componente como se ha hecho toda la vida.

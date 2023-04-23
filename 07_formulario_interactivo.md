@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Ejercicio de aplicación de los conceptos previos](#ejercicio-de-aplicaci%C3%B3n-de-los-conceptos-previos)
+- [Primeros pasos](#primeros-pasos)
+- [Componente Input](#componente-input)
+- [Componente Desplegable](#componente-desplegable)
+- [Componente Rangos](#componente-rangos)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Ejercicio de aplicación de los conceptos previos
 
 Crear un formulario interactivo para una persona que está buscando trabajo.

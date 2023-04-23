@@ -29,3 +29,5 @@ Aquí dejaré que va con qué.
 - Propagación de eventos propios bottom-up: **06_propagación_eventos.md** -> eventos-propios-app
 
 - Aplicación de todos los conceptos aprendidos hasta el momento: **07_formulario_interactivo.md** -> formulario-app
+
+- Bloque dolar (Reactividad Forzada) y CSS: **08_bloque_dolar_y_css.md** -> mi-css-app
